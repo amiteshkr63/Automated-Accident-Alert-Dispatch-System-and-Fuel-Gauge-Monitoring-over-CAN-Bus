@@ -1,0 +1,14 @@
+Component Lists:
+
+1)STM32F407 Discovery Board
+2)Raspberry pi 3B
+3)ESP8266
+4)CAN Transciever(MCP2515)*2
+5)Fuel Gauge(MAX17043 Li-Battery SOC based)
+6)GPS Module
+7)Accelerometer(ADXL345)
+8)Ultrasonic Sensor
+9)OLED
+10)LM35(Temp. Sensor)
+11)Li-battery(18650)*3(parallel connection)
+12)Li-battery Charger(TP4055)
