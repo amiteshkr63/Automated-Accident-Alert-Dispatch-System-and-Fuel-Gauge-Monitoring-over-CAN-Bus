@@ -11,5 +11,6 @@ System uses IOT platform for keeping the record of vehicle location history and 
 Apart from the detection of accident, it is also capable of avoiding accidents via automated emergency braking which is simulated using servo motors.
 The aim is to design the robust vehicle system against noise, and upgradation of system can be done easily with time and also it can be retrofitted into existing vehicles with ease. 
 
-###STAGE-1
-####Interfacing MQ2(Smoke Sensor), LCD via I2C, Buzzer, LM35(Temp. Sensor), Battery Voltage level Indicator(Not SOC Based). 
+### STAGE-1
+
+#### Interfacing MQ2(Smoke Sensor), LCD via I2C, Buzzer, LM35(Temp. Sensor), Battery Voltage level Indicator(Not SOC Based). 
