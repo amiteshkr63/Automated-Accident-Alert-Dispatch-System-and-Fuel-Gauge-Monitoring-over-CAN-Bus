@@ -13,4 +13,4 @@ The aim is to design the robust vehicle system against noise, and upgradation of
 
 ### STAGE-1
 
-#### Interfacing MQ2(Smoke Sensor), LCD via I2C, Buzzer, LM35(Temp. Sensor), Battery Voltage level Indicator(Not SOC Based). 
+#### SIMULATION of Interfacing MQ2(Smoke Sensor), LCD via I2C, Buzzer, LM35(Temp. Sensor), Battery Voltage level Indicator(Not SOC Based) on TINKERCAD
