@@ -13,4 +13,32 @@ The aim is to design the robust vehicle system against noise, and upgradation of
 
 ### STAGE-1
 
+#### Interfacing Google Assistant SDK and normally used Bluetooth Headset with RaspberryPi4B
+
+### STAGE-2
+
+#### Configuring Django with Apache2 with help of VM instance of AWS Cloud via RaspberryPi4B
+
+### STAGE-3
+
+#### Getting Familiar with Interfacing of Sensors and Actuators on STM32CubeMX IDE and STM32Cube IDE
+
+### STAGE-4
+
 #### SIMULATION of Interfacing MQ2(Smoke Sensor), LCD via I2C, Buzzer, LM35(Temp. Sensor), Battery Voltage level Indicator(Not SOC Based) on TINKERCAD
+
+### STAGE-5
+
+#### Implementation on Hardware
+
+### STAGE-6
+
+#### Building Webpage to display all Sensors Reading
+
+### STAGE-7
+
+#### Migrating data into database of Django Webframework
+
+### STAGE-8
+
+#### Final Integration testing. 
