@@ -1,0 +1,14 @@
+//Making directory in which you are creating Virtual Environment
+$ mkdir <Virtual_Environment_directory_name>
+
+//Creating Virtual environment in directory you created
+$ virtualenv <Virtual_Environment_directory_name>
+
+//Enter into Directory
+$ cd <Virtual_Environment_directory_name>
+
+//Activating virtual environment in your Windows Machine 
+$ ./Scripts/activate
+
+//To get out of the Virtualenv 
+$ deactivate
