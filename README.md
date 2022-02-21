@@ -11,34 +11,30 @@ System uses IOT platform for keeping the record of vehicle location history and 
 Apart from the detection of accident, it is also capable of avoiding accidents via automated emergency braking which is simulated using servo motors.
 The aim is to design the robust vehicle system against noise, and upgradation of system can be done easily with time and also it can be retrofitted into existing vehicles with ease. 
 
-### STAGE-1
-
-#### Interfacing Google Assistant SDK and normally used Bluetooth Headset with RaspberryPi4B
-
-### STAGE-2
+### STAGE
 
 #### Configuring Django with Apache2 with help of VM instance of AWS Cloud via RaspberryPi4B
 
-### STAGE-3
+### STAGE
 
 #### Getting Familiar with Interfacing of Sensors and Actuators on STM32CubeMX IDE and STM32Cube IDE
 
-### STAGE-4
+### STAGE
 
 #### SIMULATION of Interfacing MQ2(Smoke Sensor), LCD via I2C, Buzzer, LM35(Temp. Sensor), Battery Voltage level Indicator(Not SOC Based) on TINKERCAD
 
-### STAGE-5
+### STAGE
 
 #### Implementation on Hardware
 
-### STAGE-6
+### STAGE
 
 #### Building Webpage to display all Sensors Reading
 
-### STAGE-7
+### STAGE
 
 #### Migrating data into database of Django Webframework
 
-### STAGE-8
+### STAGE
 
 #### Final Integration testing. 
