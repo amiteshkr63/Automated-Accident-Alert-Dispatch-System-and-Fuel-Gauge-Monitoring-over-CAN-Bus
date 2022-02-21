@@ -1,6 +1,6 @@
 # Automated-Accident-Alert-Dispatch-System-and-Fuel-Gauge-Monitoring-over-CAN-Bus
 My Mtech Project
-![Screenshot (1887)](https://user-images.githubusercontent.com/88953654/138480435-c8065b46-acd9-4a9c-8994-9b67e7201957.png)
+![flow chart](https://user-images.githubusercontent.com/88953654/155040005-efc93b8b-64ad-4a52-ba6c-f7e9e71aaf9a.PNG)
 
 ##Abstract:
 With this System design, we are able to detect vehicular accidents and in such unfortunate events it could send alerts to family members and emergency responders without any human intervention. And it is also capable of keeping record of location history of vehicle to know any misuse of vehicle or in case of theft. This System Design uses CAN Bus Protocol to Monitor the Fuel Gauge and other Sensor data.
